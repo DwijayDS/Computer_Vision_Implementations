@@ -10,13 +10,13 @@
    
     <p float="left">
     <img src="./K_means_color_segmentation/batman.png" width="100" height="100" title="Original Image" />
-    <img src="./K_means_color_segmentation/Result_images/1_Colors_batman.png" width="100" height="100" title="Original Image" />
-    <img src="./K_means_color_segmentation/Result_images/2_Colors_batman.png" width="100" height="100" title="1 Color" />
-    <img src="./K_means_color_segmentation/Result_images/3_Colors_batman.png" width="100" height="100" title="2 Color" />
-    <img src="./K_means_color_segmentation/Result_images/4_Colors_batman.png" width="100" height="100" title="3 Color" />
-    <img src="./K_means_color_segmentation/Result_images/5_Colors_batman.png" width="100" height="100" title="4 Color" />
-    <img src="./K_means_color_segmentation/Result_images/6_Colors_batman.png" width="100" height="100" title="5 Color" />
-    <img src="./K_means_color_segmentation/Result_images/7_Colors_batman.png" width="100" height="100" title="6 Color" />
-    <img src="./K_means_color_segmentation/Result_images/8_Colors_batman.png" width="100" height="100" title="7 Color" />
+    <img src="./K_means_color_segmentation/Result_images/1_Colors_batman.png" width="100" height="100" title="1 Color" />
+    <img src="./K_means_color_segmentation/Result_images/2_Colors_batman.png" width="100" height="100" title="2 Color" />
+    <img src="./K_means_color_segmentation/Result_images/3_Colors_batman.png" width="100" height="100" title="3 Color" />
+    <img src="./K_means_color_segmentation/Result_images/4_Colors_batman.png" width="100" height="100" title="4 Color" />
+    <img src="./K_means_color_segmentation/Result_images/5_Colors_batman.png" width="100" height="100" title="5 Color" />
+    <img src="./K_means_color_segmentation/Result_images/6_Colors_batman.png" width="100" height="100" title="6 Color" />
+    <img src="./K_means_color_segmentation/Result_images/7_Colors_batman.png" width="100" height="100" title="7 Color" />
+    <img src="./K_means_color_segmentation/Result_images/8_Colors_batman.png" width="100" height="100" title="8 Color" />
      </p
     
