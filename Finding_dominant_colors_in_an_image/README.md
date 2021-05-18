@@ -10,4 +10,7 @@
     
     :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
     ![](./K_means_color_segmentation/batman.png)  |  ![](./K_means_color_segmentation/Result_images/1_Colors_batman.png) |  ![](./K_means_color_segmentation/Result_images/2_Colors_batman.png) |  ![](./K_means_color_segmentation/Result_images/3_Colors_batman.png) |  ![](./K_means_color_segmentation/Result_images/4_Colors_batman.png) |  ![](./K_means_color_segmentation/Result_images/5_Colors_batman.png) |  ![](./K_means_color_segmentation/Result_images/6_Colors_batman.png) |  ![](./K_means_color_segmentation/Result_images/7_Colors_batman.png) |  ![](./K_means_color_segmentation/Result_images/8_Colors_batman.png)
+    
+    
+    <img width="100" height="100" src="./K_means_color_segmentation/batman.png"><img width="100" height="100" src="./K_means_color_segmentation/Result_images/1_Colors_batman.png">
   
